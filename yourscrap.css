@@ -1,0 +1,114 @@
+.sec1{
+    min-height: 600px;
+    background-image: url(menwatchingmobile1.jpg);
+    background-size: cover;
+}
+.inbox1{
+    margin: auto;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box1{
+    min-height: 600px;
+    background-color: rgba(255, 255, 255, 0.63);
+}
+.box2{
+    min-height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.inbox2{
+    min-height: 100px;
+} 
+.navbg{
+    background-color: white;
+
+ }
+.sec3{
+    border-top: 1px solid ;
+}
+.logo{
+    /* min-height: 100%; */
+}
+.inbox3{
+    margin-top: 15px;
+    min-height: 400px;
+}
+.inbox4{
+    margin-top: 30%;
+    min-height: 400px;
+   
+}
+.inbox5,.inbox6{
+    min-height: 400px;
+}
+.sec5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box3{
+    min-height: 2px;
+    width: 80px;
+    background-color: gray;
+    
+}
+.inbox8, .inbox9, .inbox7{
+    min-height: 500px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+.box5{
+    background-color: red;
+    min-height: 100%;
+    color: white;
+    padding: 15px;
+}
+.sec6{
+    border-top: 1px solid;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.inbox10{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.men{
+    border-radius: 50%;
+    min-height: 200px;
+    width: 200px;
+    margin-top: 70PX;  
+}
+.inbox11{
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.display-6{
+    margin-top: 40px;
+}
+.collapse navbar-collapse{
+    text-align: left;
+}
